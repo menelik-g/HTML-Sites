@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html>
+<head>
+<!-- metadata goes in head -->
+	
+	<title>Retro Game Plaza</title>
+  <link rel="stylesheet" type="text/css" href="retro.css">
+</head>
+<body>
+<!-- content goes in the body -->
+ <h1>Welcome to the Plaza!</h1>
+<h3 class="underline">Sign In</h3>
+<form action="https://www.google.com" method="GET">
+  <label for="username"><strong>Username:</strong></label>
+  <input id="username" name="username" type="text" placeholder="username"
+  required="username">
+
+<label for="password"><strong>Password:</strong></label>
+  <input id="password" name="password" type="password" placeholder="password"
+  required="password">
+
+  <button class="underline">Login!</button>
+  <button><a href="signup.html">Sign-up!</a></button>
+</form>
+
+  <img src="https://www.cheatsheet.com/wp-content/uploads/2015/08/super-mario-bros.jpg">
+
+   <p>I'm using this site to practice <strong>HTML</strong> by talking about retro video games and hosting links for Roms of classic video game systems.</p>
+ <h2 class="underline">How to install?</h2>
+ <ol>
+   <li>Pick the file you want to download.</li>
+   <li>Click download to install the file onto your computer.</li>
+   <li>Extract the file if necessary.  </li>
+   <li>Enjoy!</li>
+ </ol>	
+</div>
+ <h2 class="underline">System Links</h2>
+
+    <img src="https://images.lukiegames.com/t_300e2/assets/images/NES/NES-NoGame-1Controller.jpg">
+  <h3 class="underline"><strong>Nintendo Entertainment System</strong></h3>
+<p>Introduced in 1985, the NES was an instant hit. Over the course of the next two years, it almost single-handedly revitalized the video game industry. Selling over 60 million units, people brought games like Mario and Zelda into their homes for the first time on the NES.</p>
+    <ul>
+      <li><em><a href="https://www.emuparadise.me/Nintendo_Entertainment_System_ROMs/13">Roms</a></em></li>
+      <li><em><a href="https://www.emuparadise.me/Nintendo_Entertainment_System_Emulators/13">Emulators</a></em></li>
+    </ul>
+  </li>  
+
+    	</ul>
+  
+    <img src="https://www.retrogamingcables.co.uk/image/cache/catalog/SNES-Mod1-Console-Set-300x300.jpg">
+  
+  <h3 class="underline"><strong>SNES</strong></h3>
+        <p>The SNES was released in 1991 and featured 16-bit technology. More processing power meant more entertaining games which helped the SNES sell more than 49 million systems worldwide.</p>
+
+    	<ul>
+        <li><em><a href="https://www.emuparadise.me/Super_Nintendo_Entertainment_System_(SNES)_ROMs/5"></a>Roms</em></li>
+        <li><em><a href="https://www.emuparadise.me/Super_Nintendo_Entertainment_System_(SNES)_Emulators/5">Emulators</a></em></li> 
+        </ul>
+    </li>      
+
+    	</ul>
+  
+    <img src="https://punchoutgaming.com/images/com_hikashop/upload/thumbnails/300x300f/images_11_1642688265.jpeg">
+   <h3 class="underline"><strong>GENESIS</strong></h3>
+    <p>Known worldwide as the Mega Drive but called Genesis in the US, it provided graphics and sound a couple of steps below their popular System 16 arcade cabinets. The Mega Drive/Genesis turned out to be Sega's most successful console.</p>
+    <ul>
+      <li><em><a href="https://www.emuparadise.me/Sega_Genesis_-_Sega_Megadrive_ROMs/6">Roms</a></em></li>
+      <li><em><a href="https://www.emuparadise.me/Sega_Genesis_-_Sega_Megadrive_Emulators/6">Emulators</a></em></li>
+    </ul>
+  </li>
+ 
+<img src="https://www.retrogamingcables.co.uk/image/cache/catalog/gamecube/gamecube-console-300x300.png">
+  <h3 class="underline"><strong>GAMECUBE</strong></h3> 
+    <p>2001 also saw the release of the Nintendo GameCube which one-upped the graphics and gameplay of the N64. It was the first Nintendo system to use optical discs instead of cartridges for its games.</p>
+    <ul>
+      <li><em><a href="https://www.emuparadise.me/Nintendo_Gamecube_ISOs/42">Roms</a></em></li>
+      <li><em><a href="https://www.emuparadise.me/Nintendo_Gamecube_Emulators/42">Emulators</a></em></li>
+    </ul>
+  </li>
+  
+    <img src="https://cdn.shopify.com/s/files/1/3104/5250/products/PS2_Thin_with_Controller_300x300.png?v=1523973565">
+  <h3 class="underline"><strong>PS2</strong></h3>
+    <p>Sony's PlayStation 2 is the second home video game console produced by Sony Computer Entertainment Incorporated, and to date is the best-selling home console of all time, with an install base of 150 million units since its launch.</p>
+    <ul>
+      <li><em><a href="https://www.emuparadise.me/Sony_Playstation_2_ISOs/41">Roms</a></em></li>
+      <li><em><a href="https://www.emuparadise.me/Sony_Playstation_2_Emulators/41">Emulators</a></em></li>
+    </ul>
+
+
+<table border="1">
+<tr>
+  <th>Systems</th>
+  <th>Roms</th>
+  <th>Emulators</th> 
+</tr>
+<tr>
+  <td>Sega Saturn</td>
+  <td><a href="https://www.emuparadise.me/roms/Saturn/">Link to Roms</a></td>
+  <td><a href="https://www.emuparadise.me/Sega_Saturn_Emulators/3">Link to Emulator</a></td>
+</tr>
+<tr>
+  <td>PC-Engine</td>
+  <td><a href="https://www.emuparadise.me/PC_Engine_-_TurboGrafx16_ROMs/16">Link to Roms</a></td>
+  <td><a href="https://www.emuparadise.me/PC_Engine_-_TurboGrafx16_Emulators/16">Link to Emulator</a></td>
+</tr>
+<tr>
+  <td>Sega Dreamcast</td>
+  <td><a href="https://www.emuparadise.me/roms/dreamcast/">Link to Roms</a></td>
+  <td><a href="https://www.emuparadise.me/Sega_Dreamcast_Emulators/1">Link to Emulator</a></td>
+</tr>
+</table>
+
+
+
+</ul>
+<a href="https://www.reddit.com/r/retrogaming">Reddit Community</a>
+<a href="page2.html">Go to the next page!</a>
+<a href=""></a>
+<p class="underline"><strong>Note:</strong> I do not own any of the roms, emulators, or sites that hold them. They are owned by the companies. This is just a link hosting site.</p>
+</body>
+</html>
